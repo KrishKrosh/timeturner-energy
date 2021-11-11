@@ -1,5 +1,5 @@
 # timeturner-energy
-Energy Detection using Python and OpenCV. Periodically pushes to Firebase to be pulled form webapp.
+Energy Detection based on eye aspect ratio using Python and OpenCV. Periodically pushes to Firebase to be pulled form webapp.
 
 Webapp at: https://github.com/DjKesu/timeturner
 
